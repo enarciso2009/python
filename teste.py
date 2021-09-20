@@ -1,0 +1,11 @@
+lista = [4, 3, 2, 1]
+print()
+print(' lista traz tudo que tem na lista = {}'.format(lista))
+print()
+print(' lista[1] traz o objeto que esta na posição 1 = {} '.format(lista[1]))
+print("lista.index(1) traz o objeto que esta no indice 1 = {}". format(lista.index(1)))
+print()
+print('len(lista) traz a quantidade de objetos dentro da lista = {}'.format(len(lista)))
+print()
+print("lista.count(4) traz a quantida de objetos no caso numero 4 = {}".format(lista.count(4)))
+print()
